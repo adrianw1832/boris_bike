@@ -13,8 +13,8 @@ including TDD, OOP, pair programming and proper Github usage. It was pretty
 overwhelming for the first couple of days, getting used to the syntax and working
 with another person. I also found the whole concept and routine of TDD very
 alien and difficult to get used to. Having said that, I was much more
-comfortable with it at the end of the week.
-
+comfortable with it at the end of the Week. Committing to Github was also so new
+to me that I practically forgot about it.
 
 ##Technologies used
 
@@ -28,6 +28,3 @@ Simply clone the repo and run IRB to play around, remembering to require the
 needed files first.
 
 Run rspec to run the tests.
-
-
-
