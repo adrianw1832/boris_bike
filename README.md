@@ -1,10 +1,11 @@
 ##Boris Bike
 
 This project is from the week 1 weekly challenge of the Makers Academy course.
-This repo contains the solutions up to and including some parts of post
-challenge 6 of the Boris Bike challenge, which has since been deprecated. The
-code is meant to model a simple bike docking station, and later on, includes a
-garage repair and van delivery system, all in IRB.
+It introduces basic OOP and TDD concepts and is meant to ease us into pair
+programming. This repo contains the solutions up to and including some parts of
+post challenge 6 of the Boris Bike challenge, which has since been deprecated.
+The code is meant to model a simple bike docking station, and later on, includes
+a garage repair and van delivery system, all in IRB.
 
 ##Challenges
 
